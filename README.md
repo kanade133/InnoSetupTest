@@ -1,0 +1,2 @@
+# InnoSetupTest
+Inno Setup Test
